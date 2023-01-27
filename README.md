@@ -1,18 +1,14 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Wireflow home page
+Voor Visual Thinking heb ik een wireflow gemaakt voor de home page zodat de user story gerealiseerd kan worden
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+De gebruiker van mijn interactie zijn studenten en docenten van het HBO. De bedoeling van deze website is om aan de hand van verschillende werkvormen, mini-cursussen en kennisclips leren, zowel studenten als docenten, visueel denken en communiceren.
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+”Als student en docent wil ik (direct) kunnen zien wat het platform te bieden heeft.”
 
 ## Wireflow
-<!-- Toon de wireflow -->
-
- 
+*insert wireflow*
 
 ## Licentie
 
