@@ -8,7 +8,7 @@ De gebruiker van mijn interactie zijn studenten en docenten van het HBO. De bedo
 ”Als student en docent wil ik (direct) kunnen zien wat het platform te bieden heeft.”
 
 ## Wireflow
-*insert wireflow*
+![wireflow](https://user-images.githubusercontent.com/61830362/215079237-a313b8ee-44fe-4b35-a14f-22dbe727310c.JPG)
 
 ## Licentie
 
